@@ -5,5 +5,5 @@
 - 👯 I’m not looking to collaborate.
 - 🤔 I’m looking for help to learn more and find my next way.
 - 💬 My goals learn more and improve myself.
-- 📫 Reach me by email.
+- 📫 Reach me in linkedin.
 - ⚡ Fun fact: I love retrogaming et now coding.
