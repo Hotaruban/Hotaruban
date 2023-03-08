@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently studying in 42 Bangkok.
 - 🌱 I’m currently learning coding C.
-- 👯 I’m looking to collaborate on nothing for now.
-- 🤔 I’m looking for help with everything.
-- 💬 Ask me about my goals, but I am not football player.
-- 📫 How to reach me in Bangkok or by email.
+- 👯 I’m not looking to collaborate.
+- 🤔 I’m looking for help to learn more and find my next way.
+- 💬 My goals learn more and improve myself.
+- 📫 Reach me by email.
 - ⚡ Fun fact: I love retrogaming et now coding.
