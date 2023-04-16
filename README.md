@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help to learn more and find my next way.
 - 💬 My goals learn more and improve myself.
 - 📫 Reach me in linkedin.
-- ⚡ Fun fact: I love retrogaming et now coding.
+- ⚡ Fun fact: I love retrogaming and coding.
