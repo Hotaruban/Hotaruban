@@ -10,8 +10,12 @@ My 42 school project:
 </p>
 
 <p align = "center">
-[<img libft = "libft" src = "42_badges/badges/libftm.png"/>] (https://github.com/Hotaruban/libft)
-[<img ft_printf = "ft_printf" src = "42_badges/badges/ft_printfe.png">](https://github.com/Hotaruban/ft_printf)
+<a href = https://github.com/Hotaruban/libft>
+<img libft = "libft" src = "42_badges/badges/libftm.png"/>
+</a>
+<a href = https://github.com/Hotaruban/ft_printf>
+<img ft_printf = "ft_printf" src = "42_badges/badges/ft_printfe.png">
+</a>
 </p>
 
 
