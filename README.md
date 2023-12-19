@@ -1,7 +1,7 @@
 <h1 align = "center">
 Hello, <br>
 </h1>
-<h2>
+<h2 align = "center">
 I am Jeremy, student at <a href = https://www.42bangkok.com> 42_Bangkok</a>
 </h2>
 <br>
@@ -34,8 +34,16 @@ You can find here the different project I finished already.
 <br>
 <a href = https://github.com/Hotaruban/philosophers>
 <img philo = "philosophers" src = "42_badges/badges/philosopherse.png"> </a>
-</p>
+<a href = "https://github.com/Adamsandlerisgod/Minishell_42">
+<img minishell = "minishell" src = "42_badges/badges/minishelln.png"></a>
 <br>
+<a href = "">
+<img NetPractice = "NetPractice" src = "42_badges/badges/netpracticee.png"></a>
+<a href = "">
+<img CPP = "CPP" src = "42_badges/badges/cppn.png">
+<a href = "https://github.com/Hotaruban/cub3D">
+<img cub3D = "cub3D" src = "42_badges/badges/cub3dn.png"></a>
+</p>
 
 
 
