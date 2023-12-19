@@ -1,13 +1,16 @@
 <h1 align = "center">
 Hello, <br>
-I am Jeremy, student in <a href = https://www.42bangkok.com> 42_Bangkok</a>
 </h1>
+<h2>
+I am Jeremy, student at <a href = https://www.42bangkok.com> 42_Bangkok</a>
+</h2>
 <br>
 <h2 align = "center">
 <b>
 My 42 school project:
 <br>
 You can find here the different project I finished already.
+<br>
 </b>
 </h2>
 
