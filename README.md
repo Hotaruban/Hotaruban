@@ -1,13 +1,21 @@
-### Hi there 👋
-
+<h1>
 Hello,
-
-I am Jeremy, student in 42 Bangkok [jhurpy]
-
-My 42 school project:
+</h1>
 
 <p>
-<img libft = "libft" src = "badges/libftm.png" />
+<b> <i>
+I am Jeremy, student in 42 Bangkok [jhurpy]
+</b> </i> <br>
+</p>
+
+<p align = "center">
+<b>
+My 42 school project:
+</b>
+</p>
+
+<p>
+<img libft = "libft" src = "42_badges/badges/libftm.png" />
 </p>
 
 You can find here the different project I finished already.
