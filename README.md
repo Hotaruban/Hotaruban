@@ -21,7 +21,7 @@ My 42 school project:
 <img gnl = "get_next_line" src = "42_badges/badges/get_next_linem.png">
 </a>
 <a>
-<img b2r = "born2beroot" src = "42_badges/badges/born2beroot.png">
+<img b2r = "born2beroot" src = "42_badges/badges/born2beroote.png">
 </a>
 <br>
 <a href = https://github.com/Hotaruban/fdf>
