@@ -1,7 +1,5 @@
-<p align = "center" style = "font-size: 37px;">
-**Hello World!**</p>
-<p align = "center" style = "font-size: 24px;">
-I am Jeremy, student at <a href = https://www.42bangkok.com> 42_Bangkok</a></p>
+#**Hello World!**
+##I am Jeremy, student at <a href = https://www.42bangkok.com> 42_Bangkok</a>
 
 <p align = "left" style = "font-size: 20px;">
 My 42 school project:
