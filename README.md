@@ -1,11 +1,6 @@
-#**Hello World!**
-##I am Jeremy, student at <a href = https://www.42bangkok.com> 42_Bangkok</a>
+# <p align = "center">**Hello World!**</p>
 
-<p align = "left" style = "font-size: 20px;">
-My 42 school project:
-<br>
-You can find here the different project I finished already.</p>
-<br>
+### I am Jeremy and here you will find <br> My project at <a href = https://www.42bangkok.com> 42_Bangkok</a>:
 
 <p align = "center">
 <a href = https://github.com/Hotaruban/libft>
