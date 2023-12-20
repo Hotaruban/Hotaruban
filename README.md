@@ -1,14 +1,14 @@
-<h1 align = "center">
-Hello, <br>
-I am Jeremy, student at <a href = https://www.42bangkok.com> 42_Bangkok</a>
-</h1>
+<p align = "center" style = "font-size: 24xp;">
+Hello World!</p>
 <br>
-<h2 align = "center">
+<p align = "center" style = "font-size: 16xp;">
+I am Jeremy, student at <a href = https://www.42bangkok.com> 42_Bangkok</a></p>
+
+<p align = "left" style = "font-size: 20xp;">
 My 42 school project:
 <br>
-You can find here the different project I finished already.
+You can find here the different project I finished already.</p>
 <br>
-</h2>
 
 <p align = "center">
 <a href = https://github.com/Hotaruban/libft>
@@ -26,7 +26,6 @@ You can find here the different project I finished already.
 <img push_swap = "push_swap" src = "42_badges/badges/push_swape.png"></a>
 <a href = https://github.com/Hotaruban/pipex>
 <img pipex = "pipex" src = "42_badges/badges/pipexm.png"></a>
-<br>
 <a href = https://github.com/Hotaruban/philosophers>
 <img philo = "philosophers" src = "42_badges/badges/philosopherse.png"> </a>
 <a href = "https://github.com/Adamsandlerisgod/Minishell_42">
