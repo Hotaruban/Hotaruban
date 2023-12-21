@@ -19,14 +19,14 @@
 <a href = https://github.com/Hotaruban/pipex>
 <img pipex = "pipex" src = "42_badges/badges/pipexm.png"></a>
 <a href = https://github.com/Hotaruban/philosophers>
-<img philo = "philosophers" src = "42_badges/badges/philosopherse.png"> </a>
+<img philo = "philosophers" src = "42_badges/badges/philosopherse.png"></a>
 <a href = "https://github.com/Adamsandlerisgod/Minishell_42">
 <img minishell = "minishell" src = "42_badges/badges/minishelln.png"></a>
 <br>
 <a href = "">
 <img NetPractice = "NetPractice" src = "42_badges/badges/netpracticee.png"></a>
 <a href = "">
-<img CPP = "CPP" src = "42_badges/badges/cppn.png">
+<img CPP = "CPP" src = "42_badges/badges/cppn.png"></a>
 <a href = "https://github.com/Hotaruban/cub3D">
 <img cub3D = "cub3D" src = "42_badges/badges/cub3dn.png"></a>
 </p>
