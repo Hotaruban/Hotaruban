@@ -23,7 +23,7 @@
 <a href = "https://github.com/Adamsandlerisgod/Minishell_42">
 <img minishell = "minishell" src = "42_badges/badges/minishelln.png"></a>
 <br>
-<a href = "">
+<a href = "https://github.com/Hotaruban/Net_Practice">
 <img NetPractice = "NetPractice" src = "42_badges/badges/netpracticee.png"></a>
 <a href = "https://github.com/Hotaruban/CPP_module">
 <img CPP = "CPP" src = "42_badges/badges/cppn.png"></a>
