@@ -20,7 +20,7 @@
 <img pipex = "pipex" src = "42_badges/badges/pipexm.png"></a>
 <a href = https://github.com/Hotaruban/philosophers>
 <img philo = "philosophers" src = "42_badges/badges/philosopherse.png"></a>
-<a href = "https://github.com/Adamsandlerisgod/Minishell_42">
+<a href = "https://github.com/Hotaruban/Minishell">
 <img minishell = "minishell" src = "42_badges/badges/minishelln.png"></a>
 <br>
 <a href = "https://github.com/Hotaruban/Net_Practice">
