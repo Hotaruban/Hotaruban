@@ -21,14 +21,14 @@
 <a href = https://github.com/Hotaruban/philosophers>
 <img philo = "philosophers" src = "42_badges/badges/philosopherse.png"></a>
 <a href = "https://github.com/Hotaruban/Minishell">
-<img minishell = "minishell" src = "42_badges/badges/minishelln.png"></a>
+<img minishell = "minishell" src = "42_badges/badges/minishelle.png"></a>
 <br>
 <a href = "https://github.com/Hotaruban/Net_Practice">
 <img NetPractice = "NetPractice" src = "42_badges/badges/netpracticee.png"></a>
 <a href = "https://github.com/Hotaruban/CPP_module">
 <img CPP = "CPP" src = "42_badges/badges/cppn.png"></a>
 <a href = "https://github.com/Hotaruban/cub3D">
-<img cub3D = "cub3D" src = "42_badges/badges/cub3dn.png"></a>
+<img cub3D = "cub3D" src = "42_badges/badges/cub3de.png"></a>
 </p>
 
 
