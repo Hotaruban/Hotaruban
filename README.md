@@ -29,7 +29,7 @@
 <img CPP = "CPP" src = "42_badges/badges/cppn.png"></a>
 <a href = "https://github.com/Hotaruban/cub3D">
 <img cub3D = "cub3D" src = "42_badges/badges/cub3de.png"></a>
-<a href = "https://github.com/Hotaruban/">
+<a href = "https://github.com/Hotaruban/webserv">
 <img webser = "webserv" src = "42_badges/badges/webservm.png"></a>
 </p>
 
