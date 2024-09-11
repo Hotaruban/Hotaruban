@@ -24,11 +24,13 @@
 <img minishell = "minishell" src = "42_badges/badges/minishelle.png"></a>
 <br>
 <a href = "https://github.com/Hotaruban/Net_Practice">
-<img NetPractice = "NetPractice" src = "42_badges/badges/netpracticee.png"></a>
+<img NetPractice = "NetPractice" src = "42_badges/badges/netpracticem.png"></a>
 <a href = "https://github.com/Hotaruban/CPP_module">
 <img CPP = "CPP" src = "42_badges/badges/cppn.png"></a>
 <a href = "https://github.com/Hotaruban/cub3D">
 <img cub3D = "cub3D" src = "42_badges/badges/cub3de.png"></a>
+<a href = "https://github.com/Hotaruban/">
+<img webser = "webserv" src = "42_badges/badges/websern.png"></a>
 </p>
 
 
