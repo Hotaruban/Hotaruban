@@ -26,7 +26,7 @@
 <a href = "https://github.com/Hotaruban/Net_Practice">
 <img NetPractice = "NetPractice" src = "42_badges/badges/netpracticem.png"></a>
 <a href = "https://github.com/Hotaruban/CPP_module">
-<img CPP = "CPP" src = "42_badges/badges/cppn.png"></a>
+<img CPP = "CPP" src = "42_badges/badges/cppe.png"></a>
 <a href = "https://github.com/Hotaruban/cub3D">
 <img cub3D = "cub3D" src = "42_badges/badges/cub3de.png"></a>
 <br>
