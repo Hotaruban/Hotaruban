@@ -31,7 +31,7 @@
 <img cub3D = "cub3D" src = "42_badges/badges/cub3de.png"></a>
 <br>
 <a href = "https://github.com/Hotaruban/Inception">
-<img Inception = "Inception" src = "42_badges/badges/inceptionn.png"></a>
+<img Inception = "Inception" src = "42_badges/badges/inceptione.png"></a>
 <a href = "https://github.com/Hotaruban/webserv">
 <img webser = "webserv" src = "42_badges/badges/webservm.png"></a>
 </p>
