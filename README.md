@@ -1,6 +1,19 @@
-### I am Jeremy and here you will find <br> My project at <a href = https://www.42bangkok.com> 42_Bangkok</a>:
+<h1 align="center">Hi! I'm Jeremy</h1>
 
+<p align="center" style="font-size: 18px;">
+  Welcome to my GitHub profile!<br>
+  You can find some of my featured projects below.
+</p>
 
-<p align = "center">
-<a href = https://github.com/Hotaruban/Hotaruban/tree/main/42Bangkok>
-<img 42Bangkok = "42bangkok" src = "visit_card_42_bangkok.png"></a>
+<h3 align="left"> > Projects completed during my scholarship at 42 Bangkok.</h3>
+
+<p align="left">
+  <a href="https://github.com/Hotaruban/Hotaruban/tree/main/42Bangkok">
+    <img
+      src="visit_card_42_bangkok.png"
+      alt="42 Bangkok"
+      width="250px"
+      style="border-radius: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
+    />
+  </a>
+</p>

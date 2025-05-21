@@ -1,42 +1,189 @@
-# <p align = "center">**Hello World!**</p>
+<h1 align="center">🇹🇭 42 Bangkok – Projects Overview</h1>
 
-### I am Jeremy and here you will find <br> My project at <a href = https://www.42bangkok.com> 42_Bangkok</a>:
+<p align="center">Welcome! This page gathers all the main projects I completed during my scholarship at 42 Bangkok.<br>
+Each logo links to its corresponding GitHub repository.</p>
 
-<p align = "center">
-<a href = https://github.com/Hotaruban/libft>
-<img libft = "libft" src = "42_badges/badges/libftm.png"/></a>
-<a href = https://github.com/Hotaruban/ft_printf>
-<img ft_printf = "ft_printf" src = "42_badges/badges/ft_printfe.png"></a>
-<a href = https://github.com/Hotaruban/get_next_line>
-<img gnl = "get_next_line" src = "42_badges/badges/get_next_linem.png"></a>
-<a href = "">
-<img b2r = "born2beroot" src = "42_badges/badges/born2beroote.png"></a>
-<a href = https://github.com/Hotaruban/fdf>
-<img fdf = "fdf" src = "42_badges/badges/fdfe.png"></a>
-<br>
-<a href = https://github.com/Hotaruban/push_swap>
-<img push_swap = "push_swap" src = "42_badges/badges/push_swape.png"></a>
-<a href = https://github.com/Hotaruban/pipex>
-<img pipex = "pipex" src = "42_badges/badges/pipexm.png"></a>
-<a href = https://github.com/Hotaruban/philosophers>
-<img philo = "philosophers" src = "42_badges/badges/philosopherse.png"></a>
-<a href = "https://github.com/Hotaruban/Minishell">
-<img minishell = "minishell" src = "42_badges/badges/minishelle.png"></a>
-<br>
-<a href = "https://github.com/Hotaruban/Net_Practice">
-<img NetPractice = "NetPractice" src = "42_badges/badges/netpracticem.png"></a>
-<a href = "https://github.com/Hotaruban/CPP_module">
-<img CPP = "CPP" src = "42_badges/badges/cppe.png"></a>
-<a href = "https://github.com/Hotaruban/cub3D">
-<img cub3D = "cub3D" src = "42_badges/badges/cub3de.png"></a>
-<br>
-<a href = "https://github.com/Hotaruban/Inception">
-<img Inception = "Inception" src = "42_badges/badges/inceptione.png"></a>
-<a href = "https://github.com/Hotaruban/webserv">
-<img webser = "webserv" src = "42_badges/badges/webservm.png"></a>
-<a href = "https://github.com/Hotaruban/ft_transcendence">
-<img ft_transcendence = "ft_transcendence" src = "42_badges/badges/ft_transcendencen.png"></a>
-</p>
+<hr>
+
+<!-- 1 -->
+<table><tr>
+  <td width="120">
+    <a href="https://github.com/Hotaruban/libft">
+      <img src="42_badges/badges/libfte.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+  <td>
+    <strong>Libft</strong> — Reimplementation of standard C library functions. A foundational project for all further development at 42.
+  </td>
+</tr></table>
+
+<!-- 2 -->
+<table><tr>
+  <td>
+    <strong>ft_printf</strong> — Custom `printf` implementation supporting multiple formats, flags, and types.
+  </td>
+  <td width="120" align="right">
+    <a href="https://github.com/Hotaruban/ft_printf">
+      <img src="42_badges/badges/ft_printfe.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+</tr></table>
+
+<!-- 3 -->
+<table><tr>
+  <td width="120">
+    <a href="https://github.com/Hotaruban/get_next_line">
+      <img src="42_badges/badges/get_next_linee.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+  <td>
+    <strong>get_next_line</strong> — Reads and returns lines from a file descriptor one by one. Memory management focus.
+  </td>
+</tr></table>
+
+<!-- 4 -->
+<table><tr>
+  <td>
+    <strong>Born2beroot</strong> — Introduction to server configuration using Debian-based VMs, user roles, and firewall setup.
+  </td>
+  <td width="120" align="right">
+    <img src="42_badges/badges/born2beroote.png" width="100" style="border-radius: 10px;">
+  </td>
+</tr></table>
+
+<!-- 5 -->
+<table><tr>
+  <td width="120">
+    <a href="https://github.com/Hotaruban/fdf">
+      <img src="42_badges/badges/fdfe.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+  <td>
+    <strong>FDF</strong> — 3D wireframe viewer using miniLibX. Focus on parsing, graphics, and matrix projection.
+  </td>
+</tr></table>
+
+<!-- 6 -->
+<table><tr>
+  <td>
+    <strong>push_swap</strong> — Sorting algorithm visualizer. The goal is to sort a stack with limited operations.
+  </td>
+  <td width="120" align="right">
+    <a href="https://github.com/Hotaruban/push_swap">
+      <img src="42_badges/badges/push_swape.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+</tr></table>
+
+<!-- 7 -->
+<table><tr>
+  <td width="120">
+    <a href="https://github.com/Hotaruban/pipex">
+      <img src="42_badges/badges/pipexe.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+  <td>
+    <strong>Pipex</strong> — UNIX pipes, redirections, and process management. A step toward building a shell.
+  </td>
+</tr></table>
+
+<!-- 8 -->
+<table><tr>
+  <td>
+    <strong>Philosophers</strong> — Classic concurrency problem. Multithreading with mutexes to prevent deadlocks.
+  </td>
+  <td width="120" align="right">
+    <a href="https://github.com/Hotaruban/philosophers">
+      <img src="42_badges/badges/philosopherse.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+</tr></table>
+
+<!-- 9 -->
+<table><tr>
+  <td width="120">
+    <a href="https://github.com/Hotaruban/Minishell">
+      <img src="42_badges/badges/minishelle.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+  <td>
+    <strong>Minishell</strong> — A minimal Bash-like shell supporting pipes, redirections, signals, and environment variables.
+  </td>
+</tr></table>
+
+<!-- 10 -->
+<table><tr>
+  <td>
+    <strong>Net Practice</strong> — Network exercises focused on subnetting, routing, and IP addressing.
+  </td>
+  <td width="120" align="right">
+    <a href="https://github.com/Hotaruban/Net_Practice">
+      <img src="42_badges/badges/netpracticee.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+</tr></table>
+
+<!-- 11 -->
+<table><tr>
+  <td width="120">
+    <a href="https://github.com/Hotaruban/CPP_module">
+      <img src="42_badges/badges/cppe.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+  <td>
+    <strong>CPP Modules</strong> — A series of C++ exercises covering OOP concepts like inheritance, polymorphism, and more.
+  </td>
+</tr></table>
+
+<!-- 12 -->
+<table><tr>
+  <td>
+    <strong>cub3D</strong> — A simple raycasting 3D engine (like Wolfenstein 3D). Developed using C and miniLibX.
+  </td>
+  <td width="120" align="right">
+    <a href="https://github.com/Hotaruban/cub3D">
+      <img src="42_badges/badges/cub3de.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+</tr></table>
+
+<!-- 13 -->
+<table><tr>
+  <td width="120">
+    <a href="https://github.com/Hotaruban/Inception">
+      <img src="42_badges/badges/inceptione.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+  <td>
+    <strong>Inception</strong> — Docker-based project for deploying WordPress, MariaDB, Nginx, and services in containers.
+  </td>
+</tr></table>
+
+<!-- 14 -->
+<table><tr>
+  <td>
+    <strong>Webserv</strong> — Implementation of a web server in C++ handling HTTP/1.1, CGI, error codes, and static files.
+  </td>
+  <td width="120" align="right">
+    <a href="https://github.com/Hotaruban/webserv">
+      <img src="42_badges/badges/webserve.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+</tr></table>
+
+<!-- 15 -->
+<table><tr>
+  <td width="120">
+    <a href="https://github.com/Hotaruban/ft_transcendence">
+      <img src="42_badges/badges/ft_transcendencee.png" width="100" style="border-radius: 10px;">
+    </a>
+  </td>
+  <td>
+    <strong>ft_transcendence</strong> — A full-stack web app (JavaScript, NextJS, PostgreSQL, WebSockets, Django, Grafana, Vault ...). Real-time Pong game with auth, multi-players, and profile management.
+  </td>
+</tr></table>
 
 
+---
 
+<p align="center">✨ Stay tuned for more projects and improvements!</p>
