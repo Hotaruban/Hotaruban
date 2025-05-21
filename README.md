@@ -2,5 +2,5 @@
 
 
 <p align = "center">
-<a href = https://github.com/Hotaruban/42Bangkok/README.md>
-<img 42Bangkok = "42bangkok" src = "visit_card_42_bangkok"></a>
+<a href = https://github.com/Hotaruban/Hotaruban/tree/main/42Bangkok>
+<img 42Bangkok = "42bangkok" src = "visit_card_42_bangkok.png"></a>
