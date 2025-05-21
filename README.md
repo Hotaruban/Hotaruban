@@ -10,7 +10,7 @@
 <p align="left">
   <a href="https://github.com/Hotaruban/Hotaruban/tree/main/42Bangkok">
     <img
-      src="visit_card_42_bangkok.png"
+      src="visit_card_42_bangkok-modified.png"
       alt="42 Bangkok"
       width="250px"
       style="border-radius: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
