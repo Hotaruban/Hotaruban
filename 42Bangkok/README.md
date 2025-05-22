@@ -206,24 +206,31 @@ Each logo links to its corresponding GitHub repository.</p>
 </p>
 
 <!-- 1 -->
-<p align="center" style="display: inline-flex; align-items: center;">
-  <a href="https://github.com/Hotaruban/libft">
-    <img src="42_badges/badges/libfte.png" width="100" style="border-radius: 10px; margin-right: 15px;">
-  </a>
-  <span>
-    <strong>Libft</strong> — Reimplementation of standard C library functions. A foundational project for all further development at 42.
-  </span>
+<p align="left">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+    <td width="120">
+      <a href="https://github.com/Hotaruban/libft">
+        <img src="42_badges/badges/libfte.png" width="100" style="border-radius: 10px;">
+      </a>
+    </td>
+    <td>
+      <strong>Libft</strong> — Reimplementation of standard C library functions. A foundational project for all further development at 42.
+    </td>
+  </tr></table>
 </p>
 
-
 <!-- 2 -->
-<p align="center" style="display: inline-flex; align-items: center;">
-  <span style="margin-right: 15px;">
-    <strong>ft_printf</strong> — Custom <code>printf</code> implementation supporting multiple formats, flags, and types.
-  </span>
-  <a href="https://github.com/Hotaruban/ft_printf">
-    <img src="42_badges/badges/ft_printfe.png" width="100" style="border-radius: 10px;">
-  </a>
+<p align="right">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+    <td align="right">
+      <strong>ft_printf</strong> — Custom `printf` implementation supporting multiple formats, flags, and types.
+    </td>
+    <td width="120" align="right">
+      <a href="https://github.com/Hotaruban/ft_printf">
+        <img src="42_badges/badges/ft_printfe.png" width="100" style="border-radius: 10px;">
+      </a>
+    </td>
+  </tr></table>
 </p>
 
 ---
