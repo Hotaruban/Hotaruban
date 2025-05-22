@@ -8,7 +8,7 @@
 <h3 align="center"> > Projects completed during my scholarship at 42 Bangkok.</h3>
 
 <p align="left">
-  <a href="https://github.com/Hotaruban/Hotaruban/tree/main/42Bangkok">
+  <a href="https://github.com/Hotaruban/Hotaruban/blob/main/42Bangkok/README.md">
     <img
       src="visit_card_42_bangkok.png"
       alt="42 Bangkok"

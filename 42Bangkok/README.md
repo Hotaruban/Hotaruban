@@ -6,7 +6,7 @@ Each logo links to its corresponding GitHub repository.</p>
 <hr>
 
 <!-- 1 -->
-<table><tr>
+<table width="100%"><tr>
   <td width="120">
     <a href="https://github.com/Hotaruban/libft">
       <img src="42_badges/badges/libfte.png" width="100" style="border-radius: 10px;">
@@ -18,8 +18,8 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 2 -->
-<table><tr>
-  <td>
+<table width="100%"><tr>
+  <td align="right">
     <strong>ft_printf</strong> — Custom `printf` implementation supporting multiple formats, flags, and types.
   </td>
   <td width="120" align="right">
@@ -30,7 +30,7 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 3 -->
-<table><tr>
+<table width="100%"><tr>
   <td width="120">
     <a href="https://github.com/Hotaruban/get_next_line">
       <img src="42_badges/badges/get_next_linee.png" width="100" style="border-radius: 10px;">
@@ -42,8 +42,8 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 4 -->
-<table><tr>
-  <td>
+<table width="100%"><tr>
+  <td align="right">
     <strong>Born2beroot</strong> — Introduction to server configuration using Debian-based VMs, user roles, and firewall setup.
   </td>
   <td width="120" align="right">
@@ -52,7 +52,7 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 5 -->
-<table><tr>
+<table width="100%"><tr>
   <td width="120">
     <a href="https://github.com/Hotaruban/fdf">
       <img src="42_badges/badges/fdfe.png" width="100" style="border-radius: 10px;">
@@ -64,8 +64,8 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 6 -->
-<table><tr>
-  <td>
+<table width="100%"><tr>
+  <td align="right">
     <strong>push_swap</strong> — Sorting algorithm visualizer. The goal is to sort a stack with limited operations.
   </td>
   <td width="120" align="right">
@@ -76,7 +76,7 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 7 -->
-<table><tr>
+<table width="100%"><tr>
   <td width="120">
     <a href="https://github.com/Hotaruban/pipex">
       <img src="42_badges/badges/pipexe.png" width="100" style="border-radius: 10px;">
@@ -88,8 +88,8 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 8 -->
-<table><tr>
-  <td>
+<table width="100%"><tr>
+  <td align="right">
     <strong>Philosophers</strong> — Classic concurrency problem. Multithreading with mutexes to prevent deadlocks.
   </td>
   <td width="120" align="right">
@@ -100,7 +100,7 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 9 -->
-<table><tr>
+<table width="100%"><tr>
   <td width="120">
     <a href="https://github.com/Hotaruban/Minishell">
       <img src="42_badges/badges/minishelle.png" width="100" style="border-radius: 10px;">
@@ -112,8 +112,8 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 10 -->
-<table><tr>
-  <td>
+<table width="100%"><tr>
+  <td align="right">
     <strong>Net Practice</strong> — Network exercises focused on subnetting, routing, and IP addressing.
   </td>
   <td width="120" align="right">
@@ -124,7 +124,7 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 11 -->
-<table><tr>
+<table width="100%"><tr>
   <td width="120">
     <a href="https://github.com/Hotaruban/CPP_module">
       <img src="42_badges/badges/cppe.png" width="100" style="border-radius: 10px;">
@@ -136,8 +136,8 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 12 -->
-<table><tr>
-  <td>
+<table width="100%"><tr>
+  <td align="right">
     <strong>cub3D</strong> — A simple raycasting 3D engine (like Wolfenstein 3D). Developed using C and miniLibX.
   </td>
   <td width="120" align="right">
@@ -148,7 +148,7 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 13 -->
-<table><tr>
+<table width="100%"><tr>
   <td width="120">
     <a href="https://github.com/Hotaruban/Inception">
       <img src="42_badges/badges/inceptione.png" width="100" style="border-radius: 10px;">
@@ -160,8 +160,8 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 14 -->
-<table><tr>
-  <td>
+<table width="100%"><tr>
+  <td align="right">
     <strong>Webserv</strong> — Implementation of a web server in C++ handling HTTP/1.1, CGI, error codes, and static files.
   </td>
   <td width="120" align="right">
@@ -172,7 +172,7 @@ Each logo links to its corresponding GitHub repository.</p>
 </tr></table>
 
 <!-- 15 -->
-<table><tr>
+<table width="100%"><tr>
   <td width="120">
     <a href="https://github.com/Hotaruban/ft_transcendence">
       <img src="42_badges/badges/ft_transcendencee.png" width="100" style="border-radius: 10px;">
