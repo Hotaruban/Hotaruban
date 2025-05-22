@@ -187,42 +187,43 @@ Each logo links to its corresponding GitHub repository.</p>
 
 <!-- 1 -->
 <p align="left">
-	<a href="https://github.com/Hotaruban/libft" style="display:inline-block;">
-		<img src="42_badges/badges/libfte.png" width="100" style="vertical-align: middle; border-radius: 10px;">
-	</a>
-	<span style="display:inline-block; vertical-align: middle; margin-left: 10px;">
-		<strong>Libft</strong> — Reimplementation of standard C library functions. A foundational project for all further development at 42.
-	</span>
+  <a href="https://github.com/Hotaruban/libft" style="display:inline-block;">
+    <img src="42_badges/badges/libfte.png" width="100" style="vertical-align: middle; border-radius: 10px;">
+  </a>
+  <span style="display:inline-block; vertical-align: middle; margin-left: 10px;">
+    <strong>Libft</strong> — Reimplementation of standard C library functions. A foundational project for all further development at 42.
+  </span>
 </p>
 
 <!-- 2 -->
 <p align="right">
-	<span style="display:inline-block; vertical-align: middle; margin-right: 10px;">
-		<strong>ft_printf</strong> — Custom `printf` implementation supporting multiple formats, flags, and types.
-	</span>
-	<a href="https://github.com/Hotaruban/ft_printf" style="display:inline-block;">
-		<img src="42_badges/badges/ft_printfe.png" width="100" style="vertical-align: middle; border-radius: 10px;">
-	</a>
+  <span style="display:inline-block; vertical-align: middle; margin-right: 10px;">
+    <strong>ft_printf</strong> — Custom `printf` implementation supporting multiple formats, flags, and types.
+  </span>
+  <a href="https://github.com/Hotaruban/ft_printf" style="display:inline-block;">
+    <img src="42_badges/badges/ft_printfe.png" width="100" style="vertical-align: middle; border-radius: 10px;">
+  </a>
 </p>
 
-<!-- 3 -->
-<p align="left">
-	<a href="https://github.com/Hotaruban/get_next_line" style="display:inline-block;">
-		<img src="42_badges/badges/get_next_linee.png" width="100" style="vertical-align: middle; border-radius: 10px;">
-	</a>
-	<span style="display:inline-block; vertical-align: middle; margin-left: 10px;">
-		<strong>get_next_line</strong> — Reads and returns lines from a file descriptor one by one. Memory management focus.
-	</span>
+<!-- 1 -->
+<p align="center" style="display: inline-flex; align-items: center;">
+  <a href="https://github.com/Hotaruban/libft">
+    <img src="42_badges/badges/libfte.png" width="100" style="border-radius: 10px; margin-right: 15px;">
+  </a>
+  <span>
+    <strong>Libft</strong> — Reimplementation of standard C library functions. A foundational project for all further development at 42.
+  </span>
 </p>
 
-<!-- 4 -->
-<p align="right">
-	<span style="display:inline-block; vertical-align: middle; margin-right: 10px;">
-		<strong>Born2beroot</strong> — Introduction to server configuration using Debian-based VMs, user roles, and firewall setup.
-	</span>
-	<a href="https://github.com/Hotaruban/ft_printf" style="display:inline-block;">
-		<img src="42_badges/badges/born2beroote.png" width="100" style="vertical-align: middle; border-radius: 10px;">
-	</a>
+
+<!-- 2 -->
+<p align="center" style="display: inline-flex; align-items: center;">
+  <span style="margin-right: 15px;">
+    <strong>ft_printf</strong> — Custom <code>printf</code> implementation supporting multiple formats, flags, and types.
+  </span>
+  <a href="https://github.com/Hotaruban/ft_printf">
+    <img src="42_badges/badges/ft_printfe.png" width="100" style="border-radius: 10px;">
+  </a>
 </p>
 
 ---
