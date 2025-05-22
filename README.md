@@ -5,9 +5,9 @@
   You can find some of my featured projects below.
 </p>
 
-<h3 align="right"> > Projects completed during my scholarship at 42 Bangkok.</h3>
+<h3 align="center"> > Projects completed during my scholarship at 42 Bangkok.</h3>
 
-<p align="right">
+<p align="left">
   <a href="https://github.com/Hotaruban/Hotaruban/tree/main/42Bangkok">
     <img
       src="visit_card_42_bangkok.png"
