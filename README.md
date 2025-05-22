@@ -22,7 +22,7 @@
     </td>
     <td>
       <strong>Projects completed during my scholarship at 42 Bangkok</strong><br>
-      These projects cover C programming, algorithms, and system-level development.<br>
+      These projects cover C/C++ programming, algorithms, and system-level development.<br>
       They were essential to mastering the fundamentals of low-level programming.
     </td>
   </tr>
