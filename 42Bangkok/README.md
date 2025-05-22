@@ -5,6 +5,8 @@ Each logo links to its corresponding GitHub repository.</p>
 
 <hr>
 
+<table><tr width="100%">
+
 <!-- 1 -->
 <table width="100%"><tr>
   <td width="120">
@@ -183,7 +185,7 @@ Each logo links to its corresponding GitHub repository.</p>
   </td>
 </tr></table>
 
-
+</tr></table>
 ---
 
 <p align="center">✨ Stay tuned for more projects and improvements!</p>
