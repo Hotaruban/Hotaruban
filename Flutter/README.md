@@ -1,11 +1,33 @@
 <h1 align="center"> Flutter – Projects Overview</h1>
 
-<p align="center">Welcome! This page gathers all the Flutter projects I completed by my own to improve my skills.<br>
-Each logo links to its corresponding GitHub repository.</p>
+<p align="center">Welcome! This page showcases Flutter projects from production apps to learning experiments.<br>
+Each logo links to its corresponding repository or store page.</p>
 
 <hr>
 
-<!-- 1 -->
+<h2>🚀 Production Apps</h2>
+
+<!-- My Garage -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+	<td width="120">
+	  <a href="https://studio-hotaru.com/my-garage">
+		<img src="flutter_badges/Logo_my_garage.png" width="100" style="border-radius: 10px;">
+	  </a>
+	</td>
+	<td>
+	  <strong>My Garage</strong> — A car maintenance tracker with service reminders, document storage, and full maintenance history. Built with Flutter, SQLite, and push notifications.<br>
+	  🚀 <em>Launching on Google Play Store – February 2026</em><br>
+	  🌐 <a href="https://studio-hotaru.com/my-garage">Website</a>
+	</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>📚 Learning Projects</h2>
+
+<!-- Calculator -->
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
 	<td width="120">
@@ -14,7 +36,7 @@ Each logo links to its corresponding GitHub repository.</p>
 	  </a>
 	</td>
 	<td>
-	  <strong>Flutter_calculator</strong> — This is a simple and fully functional calculator app built with Flutter.
+	  <strong>Flutter Calculator</strong> — A simple and fully functional calculator app built to learn Flutter basics and state management.
 	</td>
   </tr>
 </table>
