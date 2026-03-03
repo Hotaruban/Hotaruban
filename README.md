@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚗 Building <strong>My Garage</strong> – A car maintenance app launching February 2026<br>
+  🚗 Published <strong>My Garage</strong> – A car maintenance app available on Google Play Store<br>
   💻 Specialized in Flutter, C++, Docker, and system-level programming<br>
   🎓 Scholarship graduate from 42 Bangkok coding school
 </p>
