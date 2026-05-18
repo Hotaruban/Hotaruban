@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Jeremy</h1>
 
 <p align="center" style="font-size: 18px;">
-  <strong>Mobile & Backend Developer | 42 Bangkok Graduate</strong>
+  <strong>Développeur Backend & DevOps | Intégration IA | Full Remote</strong>
 </p>
 
 <p align="center">
